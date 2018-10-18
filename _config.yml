@@ -11,9 +11,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-  scope:
-    path: ''
-    type: portfolio
-  values:
-    YOUR CUSTOM FIELD: 
