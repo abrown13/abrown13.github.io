@@ -11,4 +11,4 @@ Abby Brown has a degree from Eastern Washington University in Visual Communicati
 
 ## My Links
 
-* [My Homepage](http://designerd.ink)aasfasdfasfasfs
+* [My Homepage](http://designerd.ink)
