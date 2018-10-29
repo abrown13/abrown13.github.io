@@ -13,3 +13,4 @@ Project Info:
   Date: 2018-05-02 00:00:00 Z
 ---
 
+These are cute and funny buttons that will draw EWU students to the Career Services table at events. These are also buttons that people will want to wear and keep.
