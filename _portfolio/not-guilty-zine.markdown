@@ -10,3 +10,4 @@ Project Info:
   Date: 2017-10-25 00:00:00 Z
 ---
 
+This zine illustrates the many injustices of the US social justice system in hopes of making it right. Real statistic are shown in a unique and interesting way. When unfolded, the zine turns into a specialized Monopoly board to further instill the social injustices while playing a familiar game.
