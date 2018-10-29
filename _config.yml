@@ -17,3 +17,6 @@ defaults:
     type: portfolio
   values:
     Teaser Image: 
+    Project Info:
+     Client:
+     Date:
