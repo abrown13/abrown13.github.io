@@ -5,7 +5,7 @@ tags:
 - zine
 - social justice
 - injustices
-position: 2
+position: 3
 Project Info:
   Client: Eastern Washington University
   Date: 2017-10-25 00:00:00 Z
