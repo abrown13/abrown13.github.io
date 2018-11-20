@@ -7,7 +7,6 @@ date: 2018-09-27 18:51:00 Z
 
 Abby Brown has a degree from Eastern Washington University in Visual Communication Design. Abby has had the opportunity to design in the area working for Running Start at Eastern and interning with 14Four and Career Services at Eastern. Abby aspires to work in Spokane creating fun, interesting, thoughtful designs.
 
-![enhanced-buzz-1492-1379411828-15.jpg](/uploads/enhanced-buzz-1492-1379411828-15.jpg)
 
 ## My Links
 
