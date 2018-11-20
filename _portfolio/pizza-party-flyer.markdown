@@ -9,8 +9,9 @@ tags:
 - college
 position: 4
 Project Info:
-  Client: Running Start
+  Client: EWU Running Start
   Date: 2018-05-30 00:00:00 Z
+  Design Tools: InDesign, Illustrator
 ---
 
-Running Start is a program where high school juniors and seniors can take college courses for credit. We try to get students more involved with each other and the university. To end each school year, we host a pizza party with free pizza to running start students to make them feel comfortable and included.
+Running Start is a program that enables high school juniors and seniors to take college courses for credit. Running Start tries to get students more involved with each other and the university to have a great college experience. To end each school year, Running Start hosts a pizza party with free pizza for the Running Start students to make them feel more included, appreciated and exciting for the following school year. This flyer was made to inform students of the time and place of the pizza party with a 90’s theme.
