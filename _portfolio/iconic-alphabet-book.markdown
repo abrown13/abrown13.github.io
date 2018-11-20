@@ -5,6 +5,7 @@ tags:
 - alphabet
 - fashion
 - 1950s
+position: 1
 Project Info:
   Client: Eastern Washington University
   Date: 2018-06-01 00:00:00 Z

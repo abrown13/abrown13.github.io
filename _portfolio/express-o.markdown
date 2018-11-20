@@ -5,6 +5,7 @@ tags:
 - app
 - coffee
 - coffee stand
+position: 0
 Project Info:
   Client: Eastern Washington University
   Date: 2018-06-08 00:00:00 Z

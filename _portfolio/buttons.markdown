@@ -8,6 +8,7 @@ tags:
 - cute
 - funny
 - designs
+position: 4
 Project Info:
   Client: EWU Career Services
   Date: 2018-05-02 00:00:00 Z
