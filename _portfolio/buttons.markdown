@@ -12,6 +12,7 @@ position: 2
 Project Info:
   Client: EWU Career Services
   Date: 2018-05-02 00:00:00 Z
+  Design Tools: Photoshop, Illustrator
 ---
 
-These are cute and funny buttons that will draw EWU students to the Career Services table at events. These are also buttons that people will want to wear and keep.
+These are cute and/or funny buttons, some of which revolve around pop culture, that will draw EWU students to the Career Services table at Eastern events. These are buttons that people will want to wear and keep because they are understandable and relatable.
