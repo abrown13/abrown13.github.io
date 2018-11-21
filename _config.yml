@@ -8,7 +8,7 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            Pacific Standard Time # eg. Asia/Kathmandu
+timezone:            UTC # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         site name
 title:               site title
