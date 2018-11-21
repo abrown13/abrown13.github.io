@@ -21,7 +21,6 @@ defaults:
 markdown: redcarpet
 highlighter: pygments
 permalink: "/:title"
-relative_permalinks: true
 locale: en_us
 name: site name
 tagline: tagline
