@@ -44,9 +44,12 @@ exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json
 port:             	 9001
 
 defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+- scope:
+    path: ''
+    type: portfolio
+  values:
+    Teaser Image: 
+    Project Info:
+      Client: 
+      Date: 
+      Design Tools: 
