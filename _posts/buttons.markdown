@@ -1,6 +1,7 @@
 ---
 title: Buttons
 date: 2018-10-29 20:54:00 Z
+position: 2
 tags:
 - buttons
 - college
@@ -8,7 +9,6 @@ tags:
 - cute
 - funny
 - designs
-position: 2
 Project Info:
   Client: EWU Career Services
   Date: 2018-05-02 00:00:00 Z
