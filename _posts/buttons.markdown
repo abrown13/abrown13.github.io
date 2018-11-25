@@ -8,11 +8,17 @@ tags:
 - cute
 - funny
 - designs
-position: 2
+layout: post
 Project Info:
   Client: EWU Career Services
   Date: 2018-05-02 00:00:00 Z
   Design Tools: Photoshop, Illustrator
+image:
+  feature: mickey-1940.jpg
+  topPosition: "-200px"
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: false
 ---
 
 These are cute and/or funny buttons, some of which revolve around pop culture, that will draw EWU students to the Career Services table at Eastern events. These are buttons that people will want to wear and keep because they are understandable and relatable.
