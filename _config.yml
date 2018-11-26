@@ -10,14 +10,10 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
-    type: portfolio
+    path: "_posts"
+    type: "posts"
   values:
-    Teaser Image: 
-    Project Info:
-      Client: 
-      Date: 
-      Design Tools: 
+    layout: "default" 
 markdown: redcarpet
 highlighter: pygments
 permalink: "/:title"
