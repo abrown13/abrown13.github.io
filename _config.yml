@@ -22,10 +22,10 @@ markdown: redcarpet
 highlighter: pygments
 permalink: "/:title"
 locale: en_us
-name: site name
-tagline: tagline
+name: Abby Brown
+tagline: a designer
 description: description
-url: site url
+url: https://designerd.ink/
 rss: rss feed url
 baseurl: "/"
 baseurl_posts_img: "/assets/images/posts/"
@@ -35,10 +35,10 @@ baseurl_javascripts: "/assets/javascripts/"
 icon: your site icon path
 disqus: disqus_shortname
 author:
-  name: your name
-  url: your site url
-  facebook: username
-  twitter: username
+  name: Abby Brown
+  url: https://designerd.ink/
+  facebook: abby.brown.378
+  twitter: abby_brown13
   google_plus: username
   linkedin: username
   dribbble: username
