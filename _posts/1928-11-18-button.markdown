@@ -9,7 +9,7 @@ last_modified_at: 1928-11-18 01:00:00 Z
 excerpt: These are cute and/or funny buttons, some of which revolve around pop culture,
   that will draw EWU students to the Career Services...
 image:
-  feature: steamboat.jpg
+  feature: buttons.jpg
   topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
