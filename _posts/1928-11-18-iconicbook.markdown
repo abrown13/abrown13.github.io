@@ -1,13 +1,12 @@
 ---
-title: Express-O
+title: ICONIC
 date: 1928-11-18 01:00:00 Z
 categories:
 - history
 tags:
 - mickey
 last_modified_at: 1928-11-18 01:00:00 Z
-excerpt: Do you want to try something new at your regular coffee stand but they don't
-  list everything on the menu...
+excerpt: ICONIC is an alphabet book with unique shapes for each letter...
 image:
   feature: steamboat.jpg
   topPosition: "-50px"
@@ -17,4 +16,4 @@ syntaxHighlighter: false
 layout: post
 ---
 
-Do you want to try something new at your regular coffee stand but they don't list everything on the menu? Or do you feel pressured to order quickly because cars are lined up behind you so you just end up ordering the same old thing? Express-O allows you to see the full menu of coffee stands before you get to the window. You can save and customize drinks within the app. You are also able to find new stands around you with the map feature.
+ICONIC is an alphabet book with unique shapes for each letter. Each letter stands for a popular fashion icon from the 1950’s. Each letter is also cut out from a fabric or pattern that correlates to each icon’s style in the 50’s in a shape that is specific to their style. The book also includes fun, fashion-related quotes from the fashion icons.
