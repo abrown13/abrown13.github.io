@@ -25,7 +25,7 @@ locale: en_us
 name: Abby Brown
 tagline: a designer
 description: description
-url: https://designerd.ink/
+url: designerd.ink/
 rss: rss feed url
 baseurl: "/"
 baseurl_posts_img: "/assets/images/posts/"
@@ -36,7 +36,7 @@ icon: your site icon path
 disqus: disqus_shortname
 author:
   name: Abby Brown
-  url: https://designerd.ink/
+  url: designerd.ink/
   facebook: abby.brown.378
   twitter: abby_brown13
   google_plus: username
