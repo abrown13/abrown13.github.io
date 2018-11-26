@@ -7,6 +7,8 @@ tags:
 - designer
 layout: post
 last_modified_at: 2018-11-24 01:00:00 Z
+excerpt: Disney had Ub Iwerks secretly begin animating a new cartoon while still under
+  contract with Universal...
 image:
   feature: walt-disney.jpg
   topPosition: 0px
