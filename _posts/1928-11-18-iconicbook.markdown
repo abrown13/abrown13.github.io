@@ -8,7 +8,7 @@ tags:
 last_modified_at: 1928-11-18 01:00:00 Z
 excerpt: ICONIC is an alphabet book with unique shapes for each letter...
 image:
-  feature: book.jpg
+  feature: type-book.jpg
   topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
