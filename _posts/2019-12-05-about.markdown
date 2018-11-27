@@ -1,11 +1,7 @@
 ---
 title: About Abby
 date: 2019-12-05 01:00:00 Z
-categories:
-- history
-tags:
-- mickey
-last_modified_at: 1928-11-18 01:00:00 Z
+last_modified_at: 2019-12-05 00:00:00 Z
 excerpt: Abby Brown has a degree from Eastern Washington University in Visual Communication
   Design...
 image:
