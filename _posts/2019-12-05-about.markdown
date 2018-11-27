@@ -6,7 +6,7 @@ excerpt: Abby Brown has a degree from Eastern Washington University in Visual Co
   Design...
 image:
   feature: abby.jpg
-  topPosition: 0px
+  topPosition: 100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: false
