@@ -10,7 +10,7 @@ excerpt: This zine illustrates the many injustices of the United States social j
   system...
 image:
   feature: monopoly.jpg
-  topPosition: "-50px"
+  topPosition: "-200px"
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: false

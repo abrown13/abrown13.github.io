@@ -10,7 +10,7 @@ excerpt: These are cute and/or funny buttons, some of which revolve around pop c
   that will draw EWU students to the Career Services...
 image:
   feature: buttons.jpg
-  topPosition: "-50px"
+  topPosition: "-100px"
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: false
