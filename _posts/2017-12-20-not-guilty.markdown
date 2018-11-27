@@ -19,6 +19,8 @@ layout: post
 
 This zine illustrates the many injustices of the United States social justice system, in hopes of making it right. Real statistics are shown in a unique and interesting way. When unfolded, the zine turns into a specialized monopoly board to further instill the social injustices while playing a familiar game.
 
+**Target Audience**: Social Activists, Americans
+
 **Design Tools**: InDesign, Illustrator
 
 ![zine-front.jpg](/uploads/zine-front.jpg)
