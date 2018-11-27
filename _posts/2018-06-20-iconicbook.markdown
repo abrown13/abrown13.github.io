@@ -18,6 +18,8 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 
 **Design Tools**: InDesign, Illustrator, Photoshop
 
+### The Process
+
 ![book.jpg](/uploads/book.jpg)
 
 ![type-book-inside.jpg](/uploads/type-book-inside.jpg)
