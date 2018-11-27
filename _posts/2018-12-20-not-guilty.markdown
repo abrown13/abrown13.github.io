@@ -29,6 +29,6 @@ This zine illustrates the many injustices of the United States social justice sy
 
 ![page-three.jpg](/uploads/page-three.jpg)
 
-![zine-back.jpg](/uploads/zine-back.jpg)
+![back-zine.jpg](/uploads/back-zine.jpg)
 
-![monopoly.jpg](/uploads/monopoly.jpg)
+![monopoly-board.jpg](/uploads/monopoly-board.jpg)
