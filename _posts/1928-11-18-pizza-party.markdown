@@ -9,7 +9,7 @@ last_modified_at: 1928-11-18 01:00:00 Z
 excerpt: Running Start is a program that enables high school juniors and seniors to
   take college courses ...
 image:
-  feature: steamboat.jpg
+  feature: pizza.jpg
   topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
