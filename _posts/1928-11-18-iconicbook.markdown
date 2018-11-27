@@ -2,7 +2,7 @@
 title: ICONIC
 date: 1928-11-18 01:00:00 Z
 categories:
-- history
+- production
 tags:
 - mickey
 last_modified_at: 1928-11-18 01:00:00 Z

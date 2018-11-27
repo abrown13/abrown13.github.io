@@ -2,7 +2,7 @@
 title: Pizza Party
 date: 1928-11-18 01:00:00 Z
 categories:
-- history
+- print
 tags:
 - mickey
 last_modified_at: 1928-11-18 01:00:00 Z
