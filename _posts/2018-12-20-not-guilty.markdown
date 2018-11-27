@@ -1,6 +1,6 @@
 ---
 title: Not Guilty
-date: 1928-11-18 01:00:00 Z
+date: 2018-12-20 00:00:00 Z
 categories:
 - print
 tags:
@@ -19,7 +19,7 @@ layout: post
 
 This zine illustrates the many injustices of the United States social justice system, in hopes of making it right. Real statistics are shown in a unique and interesting way. When unfolded, the zine turns into a specialized monopoly board to further instill the social injustices while playing a familiar game.
 
-Project Date: November - December 2017 | Design Tools: InDesign, Illustrator
+**Design Tools**: InDesign, Illustrator
 
 ![zine-front.jpg](/uploads/zine-front.jpg)
 
