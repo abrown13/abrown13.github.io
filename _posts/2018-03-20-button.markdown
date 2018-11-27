@@ -1,6 +1,6 @@
 ---
 title: Buttons
-date: 1928-11-18 01:00:00 Z
+date: 2018-03-20 00:00:00 Z
 categories:
 - production
 tags:
@@ -19,9 +19,7 @@ layout: post
 
 These are cute and/or funny buttons, some of which revolve around pop culture, that will draw EWU students to the Career Services table at Eastern events. These are buttons that people will want to wear and keep because they are understandable and relatable.
 
-**Client**: EWU Career Services 
-
-**Project Date**: March - June 2018 
+**Client**: EWU Career Services  
 
 **Design Tools**: Photoshop, Illustrator
 
