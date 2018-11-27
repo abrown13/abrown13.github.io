@@ -9,7 +9,7 @@ last_modified_at: 1928-11-18 01:00:00 Z
 excerpt: Do you want to try something new at your regular coffee stand but they don't
   list everything on the menu...
 image:
-  feature: steamboat.jpg
+  feature: Express-O Prototype.jpg
   topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
