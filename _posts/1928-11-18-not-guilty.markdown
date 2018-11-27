@@ -4,7 +4,7 @@ date: 1928-11-18 01:00:00 Z
 categories:
 - print
 tags:
-- mickey
+- print
 last_modified_at: 1928-11-18 01:00:00 Z
 excerpt: This zine illustrates the many injustices of the United States social justice
   system...
