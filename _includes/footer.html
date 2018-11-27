@@ -1,15 +1,9 @@
-<footer class="section--footer">
-  <div class="container container--content">
-    <div>
-      <a href="{{ site.baseurl }}humans.txt">Hand-crafted</a> by <a href="{{ site.baseurl }}about/">Abby Brown abrown13@eagles.ewu.edu</a>
-    </div>
-    <!-- <ul class="socialAccountList">
-      <li><a href="http://twitter.com/{{ site.author.twitter }}" class="socialAccount socialAccount--twitter" target="_blank"></a></li>
-      <li><a href="http://facebook.com/{{ site.author.facebook }}" class="socialAccount socialAccount--facebook" target="_blank"></a></li>
-      <li><a href="https://sites.ewu.edu/careerservices/handshake/{{ site.author.handshake }}" class="socialAccount socialAccount--handshake" target="_blank"></a></li>
-    </ul> -->
-    <div>
-      © 2015 All Rights Reserved. Powered by the <a href="https://github.com/vincentchan/mickey" target="_blank">Mickey theme</a> for Jekyll.
-    </div>
-  </div>
+<footer class="footer">
+
+	{% include socials.html %}
+
+	<div class="footer__copyright">
+		<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+	</div>
+
 </footer>

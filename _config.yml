@@ -2,52 +2,52 @@
 title: Abby Brown
 timezone: UTC
 collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:name"
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/project/:slug"
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
-    path: _posts
-    type: posts
+    path: ''
   values:
     layout: default
-markdown: redcarpet
-highlighter: pygments
-permalink: "/:title"
-locale: en_us
-name: Abby Brown
-tagline: a designer
-description: description
-url: designerd.ink
-rss: rss feed url
-baseurl: "/"
-baseurl_posts_img: "/assets/images/posts/"
-baseurl_featured_img: "/assets/images/hero/"
-baseurl_featured_thumbnail: "/assets/images/thumbnail/"
-baseurl_javascripts: "/assets/javascripts/"
-icon: your site icon path
-disqus: disqus_shortname
-author:
-  name: Abby Brown
-  url: designerd.ink
-fb_admins: your facebook profile id
-fb_appid: your facebook app id
-destination: "./_site"
-exclude:
-- ".editorconfig"
-- ".gitignore"
-- bower.json
-- composer.json
-- CONTRIBUTING.md
-- CNAME
-- LICENSE
-- Gruntfile.js
-- package.json
-- node_modules
-- README.md
-- sass
-- haml
-port: 9001
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+    subtitle: 
+    featured_image: 
+    excerpt: 
+site: Web 3 Theme
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+paginate: 6
+paginate_path: "/blog/page:num/"
