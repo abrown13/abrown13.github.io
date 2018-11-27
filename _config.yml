@@ -33,9 +33,6 @@ disqus: disqus_shortname
 author:
   name: Abby Brown
   url: designerd.ink
-  facebook: abby.brown.378
-  twitter: abby_brown13
-  handshake: users/6020175
 fb_admins: your facebook profile id
 fb_appid: your facebook app id
 destination: "./_site"
