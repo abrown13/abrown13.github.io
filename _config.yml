@@ -35,11 +35,7 @@ author:
   url: designerd.ink
   facebook: abby.brown.378
   twitter: abby_brown13
-  google_plus: username
-  linkedin: username
-  dribbble: username
-  pinterest: username
-  kiva: username
+  handshake: users/6020175
 fb_admins: your facebook profile id
 fb_appid: your facebook app id
 destination: "./_site"
