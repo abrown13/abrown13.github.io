@@ -5,7 +5,7 @@ last_modified_at: 2019-12-05 00:00:00 Z
 excerpt: Abby Brown has a degree from Eastern Washington University in Visual Communication
   Design...
 image:
-  feature: steamboat.jpg
+  feature: abby.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
