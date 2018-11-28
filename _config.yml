@@ -39,9 +39,9 @@ defaults:
     subtitle: 
     featured_image: 
     excerpt: 
-    client:
-    project date:
-    design tools:
+    client: 
+    project date: 
+    design tools: 
 site: Web 3 Theme
 markdown: kramdown
 kramdown:
