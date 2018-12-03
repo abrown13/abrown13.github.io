@@ -9,12 +9,10 @@ design tools: InDesign, Illustrator
 client: Eastern Washington University Running Start
 ---
 
-### Client: 
-Eastern Washington University Running Start
-
-### Design Tools: 
-Illustrator, InDesign
-
 Running Start is a program that enables high school juniors and seniors to take college courses for credit. Running Start tries to get students more involved with each other and the university to have a great college experience. To end each school year, Running Start hosts a pizza party with free pizza for the Running Start students to make them feel more included, appreciated and exciting for the following school year. This flyer was made to inform students of the time and place of the pizza party with a 90’s theme.
+
+| Client                 | Design Tools           |
+|------------------------|------------------------|
+| EWU Running Start      | InDesign, Illustrator  |
 
 ![pizza.jpg](/uploads/pizza.jpg)
