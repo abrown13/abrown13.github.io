@@ -1,6 +1,7 @@
 ---
 title: Pizza Party
 date: 2018-11-28 00:19:00 Z
+subtitle: Flyer
 featured_image: "/uploads/pizza.jpg"
 excerpt: Inform Running Start students of the time and place of a pizza party with
   a 90’s theme.
