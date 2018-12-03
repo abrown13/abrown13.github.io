@@ -14,7 +14,7 @@ This is a zine that illustrates the many injustices of the United States social 
 |------------------------|
 | InDesign, Illustrator  |
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="4">
 	<img src="/uploads/zine-front.jpg">
 	<img src="/uploads/page-one.jpg">
         <img src="/uploads/page-two.jpg">
