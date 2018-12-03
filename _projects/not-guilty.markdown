@@ -8,7 +8,7 @@ excerpt: This zine illustrates the many injustices of the United States social j
 design tools: InDesign, Illustrator
 ---
 
-**Design Tools**: InDesign, Illustrator
+### Design Tools: InDesign, Illustrator
 
 This is a zine that illustrates the many injustices of the United States social justice system, in hopes of making it right. Real statistics are shown in a unique and interesting way. When unfolded, the zine turns into a specialized monopoly board to further instill the social injustices while playing a familiar game.
 
