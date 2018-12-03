@@ -13,10 +13,10 @@ This is a zine that illustrates the many injustices of the United States social 
 **Design Tools**: InDesign, Illustrator
 
 <div class="gallery" data-columns="1">
-	<img src="![zine-front.jpg](/uploads/zine-front.jpg)">
-	<img src="![page-one.jpg](/uploads/page-one.jpg)">
-        <img src="![page-two.jpg](/uploads/page-two.jpg)">
-        <img src="![page-three.jpg](/uploads/page-three.jpg)">
-        <img src="![back-zine.jpg](/uploads/zine-back.jpg)">
-        <img src="![monopoly.jpg](/uploads/monopoly.jpg)">
+	<img src="/uploads/zine-front.jpg">
+	<img src="/uploads/page-one.jpg">
+        <img src="/uploads/page-two.jpg">
+        <img src="/uploads/page-three.jpg">
+        <img src="/uploads/zine-back.jpg">
+        <img src="/uploads/monopoly.jpg">
 </div>
