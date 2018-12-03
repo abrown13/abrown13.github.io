@@ -7,11 +7,9 @@ design tools: Photoshop, Illustrator
 client: Eastern Washington University Career Services
 ---
 
-### Client: 
-Eastern Washington University Career Services
-
-### Design Tools: 
-Photoshop, Illustrator
+| Client                 | Design Tools           |
+|------------------------|------------------------|
+| EWU Career Services    | Photoshop, Illustrator |
 
 These are cute and/or funny buttons, some of which revolve around pop culture, that will draw EWU students to the Career Services table at Eastern events. These are buttons that people will want to wear and keep because they are understandable and relatable.
 
