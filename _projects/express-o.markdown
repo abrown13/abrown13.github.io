@@ -35,4 +35,4 @@ Espress-O allows customer to look at ALL menu items, including specialty drinks 
 
 [View Invision Prototype](https://invis.io/JWPFGRWA5FT#/332278210_Homepage)
 
-![expresso.jpg](/uploads/expresso-small.jpg)
+![expresso-small.jpg](/uploads/expresso-small.jpg)
