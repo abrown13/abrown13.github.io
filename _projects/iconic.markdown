@@ -13,7 +13,7 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 |----------------------------------|
 | InDesign, Illustrator, Photoshop |
 
-### Sketches
+## Sketches
 
 <div class="gallery" data-columns="4">
 	<img src="/uploads/sketch1.jpg">
