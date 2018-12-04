@@ -15,7 +15,7 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 
 ## Sketches
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 	<img src="/uploads/sketch1.jpg">
 	<img src="/uploads/sketch2.jpg">
         <img src="/uploads/sketch3.jpg">
