@@ -12,3 +12,16 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 | Design Tools                     |
 |----------------------------------|
 | InDesign, Illustrator, Photoshop |
+
+### Sketches
+
+<div class="gallery" data-columns="4">
+	<img src="/uploads/sketch1.jpg">
+	<img src="/uploads/sketch2.jpg">
+        <img src="/uploads/sketch3.jpg">
+        <img src="/uploads/sketch4.jpg">
+        <img src="/uploads/sketch5.jpg">
+        <img src="/uploads/sketch6.jpg">
+        <img src="/uploads/sketch7.jpg">
+        <img src="/uploads/sketch8.jpg">
+</div>
