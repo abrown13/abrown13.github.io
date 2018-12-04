@@ -15,4 +15,4 @@ Running Start is a program that enables high school juniors and seniors to take 
 |------------------------|------------------------|
 | EWU Running Start      | InDesign, Illustrator  |
 
-![pizza.jpg](/uploads/flyer.jpg)
+![flyer.jpg](/uploads/flyer.jpg)
