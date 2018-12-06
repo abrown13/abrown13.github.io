@@ -14,6 +14,8 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 |----------------------------------|
 | InDesign, Illustrator, Photoshop |
 
+[Look inside](https://www.flipsnack.com/iconicbook/iconic.html)
+
 ## Sketches
 
 <div class="gallery" data-columns="4">
