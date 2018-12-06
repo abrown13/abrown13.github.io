@@ -10,8 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Home'
+      url: '/'
     - title: 'Projects'
-      url: '/projects'
+      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
