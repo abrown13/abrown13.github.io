@@ -5,7 +5,7 @@ date: 2018-12-06 04:03:00 Z
 
 ### Education
 
-Abigail Anne Brown (Abby) graduated from Eastern Washington University with a degree in Visual Communication Design. She received a minor in Business Administration and a certificate in User Experience Design. 
+Abigail Brown (Abby) graduated from Eastern Washington University with a degree in Visual Communication Design. She received a minor in Business Administration and a certificate in User Experience Design. 
 
 ### Work
 
