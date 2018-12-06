@@ -12,7 +12,6 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: "/project/:slug"
   uploads:
     title: Uploads
     output: true
