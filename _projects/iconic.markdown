@@ -10,8 +10,6 @@ design tools: InDesign, Illustrator, Photoshop
 
 ICONIC is an alphabet book with unique shapes for each letter. Each letter stands for a popular fashion icon from the 1950’s. Each letter is also cut out from a fabric or pattern that correlates to each icon’s style in the 50’s in a shape that is specific to their style. The book also includes fun, fashion-related quotes from the fashion icons.
 
-[Look inside](https://www.flipsnack.com/iconicbook/iconic.html)
-
 | Design Tools                     |
 |----------------------------------|
 | InDesign, Illustrator, Photoshop |
@@ -28,3 +26,11 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
         <img src="/uploads/sketch7.jpg">
         <img src="/uploads/sketch8.jpg">
 </div>
+
+## Final Product
+
+![book-small.jpg](/uploads/book-small.jpg)
+
+![book-inside-small.jpg](/uploads/book-inside-small.jpg)
+
+[Look inside](https://www.flipsnack.com/iconicbook/iconic.html)
