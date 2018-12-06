@@ -1,6 +1,7 @@
 ---
 title: About Abby
 date: 2018-12-06 01:22:00 Z
+featured_image: "/images/social.jpg"
 layout: page
 ---
 
