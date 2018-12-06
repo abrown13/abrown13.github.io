@@ -1,7 +1,7 @@
 ---
 title: ICONIC
 date: 2018-11-28 00:13:00 Z
-position: 2
+position: 1
 subtitle: 1950's fashion alphabet book
 featured_image: "/uploads/type-book.jpg"
 excerpt: ICONIC is an alphabet book centered around 1950's fashion.
