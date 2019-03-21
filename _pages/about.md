@@ -19,4 +19,8 @@ Abby has had the opportunity to intern at both 14Four in Spokane and Eastern Was
 
 ### Future
 
-Abby aspires to work in the Spokane area, creating fun, interesting and thoughtful designs. She would like to work on designing anything from flyers, to packaging design, to web or app design. She would love to see her designs being displayed, whether that’s in stores, online, on buttons or stickers, or hanging in business windows. When Abby isn’t designing, she enjoys learning about and experimenting with makeup, reading, kayaking, and most importantly, spending time with her family. 
+Abby aspires to create fun, interesting and thoughtful designs. She would like to work on designing anything from print to packaging to UX design to web/app design. When Abby isn’t designing, she enjoys learning about and experimenting with makeup, reading, kayaking, and most importantly, spending time with her family. 
+
+### Skills
+
+Adobe InDesign, Illustrator, Photoshop, Sketch, Typography, Dielines, HTML, CSS, JS, Content Management Systems, UX/UI Principles
