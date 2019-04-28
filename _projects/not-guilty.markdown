@@ -1,6 +1,7 @@
 ---
 title: Not Guilty
 date: 2018-11-29 00:16:00 Z
+published: false
 position: 2
 subtitle: Zine
 featured_image: "/uploads/monopoly.jpg"
