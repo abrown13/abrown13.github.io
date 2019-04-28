@@ -78,6 +78,7 @@
 	font-weight: $sitetagline-weight;
 	letter-spacing: $sitetagline-spacing;
 	line-height: $sitetagline-lineheight;
+	color: $text-light-color;
 
 	@include mq(tabletp) {
 		margin-top: 15px;
