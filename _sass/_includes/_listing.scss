@@ -5,18 +5,18 @@
 // - - - - - - - - - - - - - - - - - -
 
 .listing-post {
-	margin-top: 10px;
+	margin-top: 50px;
 
 	@include mq(tabletp) {
-		margin-top: 10px;
+		margin-top: 80px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 10px;
+		margin-top: 90px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 10px;
+		margin-top: 120px;
 	}
 
 	&:first-child {
@@ -39,15 +39,15 @@
 	background-repeat: no-repeat;
 
 	@include mq(tabletp) {
-		margin-top: 25px;
+		margin-top: 10px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 30px;
+		margin-top: 10px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 40px;
+		margin-top: 10px;
 	}
 }
 
