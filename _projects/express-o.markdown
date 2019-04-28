@@ -15,9 +15,9 @@ Do you want to try something new at your regular coffee stand but they don't lis
 
 ### The Problem
 
-* The menus posted outside of every coffee stand all show the same generic drinks: espresso, americano, mocha, etc. However, the majority of coffee stands have a lot more options, including specialty drinks, but they aren’t posted anywhere. Menus also don’t include all the different flavors that coffee stands have to offer, and often flavors differ between each stand.
+The menus posted outside of every coffee stand all show the same generic drinks: espresso, americano, mocha, etc. However, the majority of coffee stands have a lot more options, including specialty drinks, but they aren’t posted anywhere. Menus also don’t include all the different flavors that coffee stands have to offer, and often flavors differ between each stand.
 
-* Ordering a new drink at a coffee stand is difficult. Mostly because you often get a lineup of cars behind you and can feel pressure to order quickly, forcing you to order the same old drink you always get. 
+Ordering a new drink at a coffee stand is difficult. Mostly because you often get a lineup of cars behind you and can feel pressure to order quickly, forcing you to order the same old drink you always get. 
 
 ![coffee-menu.jpg](/uploads/coffee-menu.jpg)
 
