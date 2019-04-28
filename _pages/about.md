@@ -5,8 +5,6 @@ subtitle:
 featured_image: "/images/social.jpg"
 ---
 
-### Education
-
 Abigail Brown (Abby) graduated from Eastern Washington University with a degree in Visual Communication Design. She received a minor in Business Administration and a certificate in User Experience Design. Abby has interned at 14Four in Spokane, WA and Eastern Washington University Career Services.
 
 ### Skills
