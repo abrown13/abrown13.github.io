@@ -3,8 +3,6 @@ title: Express-O
 date: 2018-12-01 00:07:00 Z
 position: 0
 featured_image: "/uploads/expresso.jpg"
-excerpt: Express-O allows you to see the full menu of coffee stands before you get
-  to the window.
 design tools: Sketch, Invision
 UX methods: Personas, card sorting, user flows, wireframes
 ---
