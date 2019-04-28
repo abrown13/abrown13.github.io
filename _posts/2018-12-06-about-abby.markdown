@@ -9,4 +9,8 @@ Abigail Brown (Abby) graduated from Eastern Washington University with a degree 
 
 ### Skills
 
+<<<<<<< HEAD
 Adobe InDesign, Illustrator, Photoshop, Sketch, Typography, Dielines, HTML, CSS, JS, Content Management Systems, UX/UI Principles
+=======
+Adobe InDesign, Illustrator, Photoshop, Sketch, Typography, Dielines, HTML, CSS, JS, Content Management Systems, UX/UI Principles
+>>>>>>> da71aad84d5482bf3658fdc31a47001c888e05d2
