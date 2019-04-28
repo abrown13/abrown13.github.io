@@ -2,7 +2,6 @@
 title: Book Covers
 date: 2019-03-21 20:26:00 Z
 featured_image: "/uploads/can.jpg"
-excerpt: Book covers designed for the Creative Action Network
 ---
 
 ## Creative Action Network's Mission:
