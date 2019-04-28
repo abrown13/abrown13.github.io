@@ -13,14 +13,15 @@ featured_image: "/images/social.jpg"
 
 		<article class="listing-post">
 
-			<!-- <div class="listing-post__header">
-				<h2 class="listing-post__title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
-				<p class="listing-post__subtitle">{{ project.subtitle }}</p>
-			</div> -->
-
+			<div class="listing-post__header">
+				<a href="{{ project.url }}" class="listing-post__image" style="background-image: url({{ project.featured_image  }});"></a>
+				<!-- <h2 class="listing-post__title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
+				<p class="listing-post__subtitle">{{ project.subtitle }}</p> -->
+			</div>
+<!-- 
 			{% if project.featured_image %}
 			<a href="{{ project.url }}" class="listing-post__image" style="background-image: url({{ project.featured_image  }});"></a>
-			{% endif %}
+			{% endif %} -->
 
 			<!-- <div class="listing-post__content">
 				<p>{{ project.excerpt }}</p>
