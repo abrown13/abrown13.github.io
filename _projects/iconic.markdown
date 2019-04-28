@@ -27,8 +27,8 @@ ICONIC is an alphabet book with unique shapes for each letter. Each letter stand
 
 ### Final Product
 
+[Look inside](https://www.flipsnack.com/iconicbook/iconic.html)
+
 ![book-small.jpg](/uploads/book-small.jpg)
 
 ![book-inside-small.jpg](/uploads/book-inside-small.jpg)
-
-[Look inside](https://www.flipsnack.com/iconicbook/iconic.html)
