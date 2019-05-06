@@ -2,7 +2,7 @@
 title: Express-O
 date: 2018-12-01 00:07:00 Z
 position: 3
-featured_image: "/uploads/expresso.jpg"
+featured_image: "/uploads/expresso-mockup.jpg"
 design tools: Sketch, Invision
 UX methods: Personas, card sorting, user flows, wireframes
 ---
@@ -27,4 +27,4 @@ Espress-O allows customer to look at ALL menu items, including specialty drinks 
 
 [View Invision Prototype](https://invis.io/JWPFGRWA5FT#/332278210_Homepage)
 
-![expresso-small.jpg](/uploads/expresso-small.jpg)
+![expresso-mockup.jpg](/uploads/expresso-mockup.jpg)
