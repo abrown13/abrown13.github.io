@@ -12,4 +12,11 @@ SPACED is a new, conceptual company that takes the average person to space for a
 
 ### Personas
 
+<div class="gallery" data-columns="4">
+	<img src="/uploads/Tablet.jpg">
+	<img src="/uploads/sketch2.jpg">
+        <img src="/uploads/sketch3.jpg">
+        <img src="/uploads/sketch4.jpg">
+</div>
+
 ### Wireframes
