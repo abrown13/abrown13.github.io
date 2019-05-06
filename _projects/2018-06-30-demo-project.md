@@ -2,7 +2,7 @@
 title: Demo Project
 date: 2018-06-30 00:00:00 Z
 published: false
-position: 7
+position: 8
 subtitle: This is a demo
 featured_image: "/images/demo/demo-square.jpg"
 excerpt: This page is a demo that shows everything you can do inside portfolio and

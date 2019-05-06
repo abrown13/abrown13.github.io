@@ -2,7 +2,7 @@
 title: Not Guilty
 date: 2018-11-29 00:16:00 Z
 published: false
-position: 5
+position: 6
 subtitle: Zine
 featured_image: "/uploads/monopoly.jpg"
 excerpt: This zine illustrates the many injustices of the United States social justice
