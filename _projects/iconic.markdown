@@ -1,7 +1,7 @@
 ---
 title: ICONIC
 date: 2018-11-30 00:13:00 Z
-position: 3
+position: 2
 featured_image: "/uploads/type-book.jpg"
 design tools: InDesign, Illustrator, Photoshop
 ---
