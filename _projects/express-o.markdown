@@ -11,7 +11,7 @@ Do you want to try something new at your regular coffee stand but they don't lis
 
 | UX Methods                                    | Design Tools           |
 |-----------------------------------------------|------------------------|
-| Personas, Card sorting, User flows, Wireframes| Sketch, Invision       |
+| Personas, card sorting, user flows, wireframes| Sketch, Invision       |
 
 ### The Problem
 
