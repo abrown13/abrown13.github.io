@@ -21,23 +21,23 @@
 	}
 }
 
-.header__avatar {
-	display: block;
-	margin: 0 auto 20px;
-	border-radius: 100%;
-	width: 100px;
-	overflow: hidden;
-	margin-bottom: 20px;
+// .header__avatar {
+// 	display: block;
+// 	margin: 0 auto 20px;
+// 	border-radius: 100%;
+// 	width: 100px;
+// 	overflow: hidden;
+// 	margin-bottom: 20px;
 
-	@include mq(tabletp) {
-		width: 150px;
-		margin-bottom: 25px;
-	}
+// 	@include mq(tabletp) {
+// 		width: 150px;
+// 		margin-bottom: 25px;
+// 	}
 
-	&:hover {
-		@include scale(1.05);
-	}
-}
+// 	&:hover {
+// 		@include scale(1.05);
+// 	}
+// }
 
 .header__logo {
 	display: block;
