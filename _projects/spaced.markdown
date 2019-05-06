@@ -12,8 +12,6 @@ SPACED is a new, conceptual company that takes the average person to space for a
 | Personas, card sorting, user flows, wireframes, heuristic evaluations, usability testing | Sketch, InVision       |
 
 
-### Final Product
-
 [View InVision Prototype](https://invis.io/2MH1JPRGHKX#/295541255_Home)
 
 ![spaced.jpg](/uploads/spaced.jpg)
