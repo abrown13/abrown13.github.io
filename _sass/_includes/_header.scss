@@ -9,7 +9,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding-top: 30px;
+	padding-top: 40px;
 	text-align: center;
 
 	@include mq(tabletp) {
@@ -105,7 +105,7 @@
 .menu__list {
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 10px 0;
 }
 
 .menu__list__item {
@@ -121,25 +121,25 @@
 	}
 }
 
-.menu__list__item__link {
-	font-size: $menu-small;
-	font-weight: $menu-weight;
-	color: $text-dark-color;
-	border-bottom: 2px solid transparent;
+// .menu__list__item__link {
+// 	font-size: $menu-small;
+// 	font-weight: $menu-weight;
+// 	color: $text-dark-color;
+// 	border-bottom: 2px solid transparent;
 
-	&:hover {
-		color: $accent-color;
-	}
+// 	&:hover {
+// 		color: $accent-color;
+// 	}
 
-	@include mq(tabletp) {
-		font-size: $menu-medium;
-	}
+// 	@include mq(tabletp) {
+// 		font-size: $menu-medium;
+// 	}
 
-	@include mq(laptop) {
-		font-size: $menu-large;
-	}
+// 	@include mq(laptop) {
+// 		font-size: $menu-large;
+// 	}
 	
-	&.active-link {
-		border-bottom-color: $accent-color;
-	}
-}
+// 	&.active-link {
+// 		border-bottom-color: $accent-color;
+// 	}
+// }
