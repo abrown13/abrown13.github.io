@@ -23,7 +23,7 @@ Ordering a new drink at a coffee stand is difficult. Mostly because you often ge
 
 ### The Solution
 
-Espress-O allows customer to look at ALL menu items, including specialty drinks and flavors before getting to the coffee stand window. Customers can add drinks to their favorites, allowing for quick ordering, avoiding a long lineup of cars.
+Express-O allows customer to look at ALL menu items, including specialty drinks and flavors before getting to the coffee stand window. Customers can add drinks to their favorites, allowing for quick ordering, avoiding a long lineup of cars.
 
 [View Invision Prototype](https://invis.io/JWPFGRWA5FT#/332278210_Homepage)
 
