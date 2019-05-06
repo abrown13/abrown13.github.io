@@ -70,13 +70,14 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">'
   title_font: '"Open Sans", sans-serif;'
   body_font: '"Open Sans", sans-serif;'
+  light_weight: 300
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 700
   site_title:
-    small_size: 48
-    medium_size: 60
-    large_size: 72
-    weight: 600
+    small_size: 36
+    medium_size: 48
+    large_size: 60
+    weight: 700
     letter_spacing: 0
   site_tagline:
     small_size: 16
@@ -95,7 +96,7 @@ font_settings:
     small_size: 27
     medium_size: 38
     large_size: 50
-    weight: 500
+    weight: 700
     letter_spacing: -0.02
     line_height: 1.2
   h2:
