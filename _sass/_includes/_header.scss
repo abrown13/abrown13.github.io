@@ -81,7 +81,7 @@
 	color: $text-light-color;
 
 	@include mq(tabletp) {
-		margin-top: 15px;
+		margin-top: 20px;
 		font-size: $sitetagline-medium;
 	}
 
