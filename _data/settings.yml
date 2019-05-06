@@ -67,22 +67,22 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">'
-  title_font: '"Source Sans Pro", sans-serif;'
-  body_font: '"Source Sans Pro", sans-serif;'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">'
+  title_font: '"Open Sans", sans-serif;'
+  body_font: '"Open Sans", sans-serif;'
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 27
-    medium_size: 32
-    large_size: 40
-    weight: 300
+    small_size: 36
+    medium_size: 48
+    large_size: 60
+    weight: 600
     letter_spacing: 0
   site_tagline:
     small_size: 16
     medium_size: 18
     large_size: 20
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1
   menu:
@@ -95,49 +95,49 @@ font_settings:
     small_size: 27
     medium_size: 38
     large_size: 50
-    weight: 400
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.2
   h2:
     small_size: 27
     medium_size: 38
     large_size: 50
-    weight: 600
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.2
   h3:
     small_size: 22
     medium_size: 25
     large_size: 30
-    weight: 400
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.3
   h4:
     small_size: 17
     medium_size: 22
     large_size: 22
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   h5:
     small_size: 17
     medium_size: 20
     large_size: 20
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   h6:
     small_size: 17
     medium_size: 20
     large_size: 20
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   p:
     small_size: 17
     medium_size: 19
     large_size: 22
-    weight: 400
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   blockquote:
