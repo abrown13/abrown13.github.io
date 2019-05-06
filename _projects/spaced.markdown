@@ -23,7 +23,11 @@ SPACED is a new, conceptual company that takes the average person to space for a
 ### Wireframes
 
 <div class="gallery" data-columns="3">
-	<img src="/uploads/desktop.jpg">
+	<img src="/uploads/wireframe.jpg">
 	<img src="/uploads/mobile.jpg">
         <img src="/uploads/mobile2.jpg">
 </div>
+
+### Final Product
+
+![spaced.jpg](/uploads/spaced.jpg)
