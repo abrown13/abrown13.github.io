@@ -13,6 +13,6 @@ These are cute and/or funny buttons, some of which revolve around pop culture, t
 |------------------------|------------------------|
 | EWU Career Services    | Photoshop, Illustrator |
 
-![too-close.jpg](/uploads/too-close.jpg)
-
 ![backpack.jpg](/uploads/backpack.jpg)
+
+![too-close.jpg](/uploads/too-close.jpg)
