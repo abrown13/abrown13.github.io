@@ -1,5 +1,5 @@
 ---
-title: Buttons
+title: BUTTONS
 date: 2018-11-28 00:18:00 Z
 position: 5
 featured_image: "/uploads/buttons.jpg"
