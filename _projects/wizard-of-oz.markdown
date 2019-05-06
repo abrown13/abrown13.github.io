@@ -1,6 +1,7 @@
 ---
 title: The Wonderful Wizard of Oz
 date: 2019-03-09 00:14:00 Z
+position: 1
 featured_image: "/uploads/wizardofoz-cover.jpg"
 ---
 

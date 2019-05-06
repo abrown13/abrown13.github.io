@@ -1,7 +1,7 @@
 ---
 title: Buttons
 date: 2018-11-28 00:18:00 Z
-position: 3
+position: 4
 featured_image: "/uploads/buttons.jpg"
 design tools: Photoshop, Illustrator
 client: Eastern Washington University Career Services
