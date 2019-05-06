@@ -9,7 +9,7 @@ SPACED is a new, conceptual company that takes the average person to space for a
 
 | UX Methods                                                        | Design Tools           |
 |------------------------------------------------------------------|------------------------|
-| Personas, card sorting, user flows, wireframes, usability testing | Sketch, Invision       |
+| Personas, card sorting, user flows, wireframes, usability testing | Sketch, InVision       |
 
 ### Personas
 
@@ -29,5 +29,7 @@ SPACED is a new, conceptual company that takes the average person to space for a
 </div>
 
 ### Final Product
+
+[View InVision Prototype](https://invis.io/2MH1JPRGHKX#/295541255_Home)
 
 ![spaced.jpg](/uploads/spaced.jpg)
