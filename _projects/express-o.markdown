@@ -11,7 +11,7 @@ Do you want to try something new at your regular coffee stand but they don't lis
 
 | UX Methods                                    | Design Tools           |
 |-----------------------------------------------|------------------------|
-| Personas, card sorting, user flows, wireframes| Sketch, Invision       |
+| Personas, card sorting, user flows, wireframes| Sketch, InVision       |
 
 ### The Problem
 
@@ -25,6 +25,6 @@ Ordering a new drink at a coffee stand is difficult. Mostly because you often ge
 
 Express-O allows customer to look at ALL menu items, including specialty drinks and flavors before getting to the coffee stand window. Customers can add drinks to their favorites, allowing for quick ordering, avoiding a long lineup of cars.
 
-[View Invision Prototype](https://invis.io/JWPFGRWA5FT#/332278210_Homepage)
+[View InVision Prototype](https://invis.io/JWPFGRWA5FT#/332278210_Homepage)
 
 ![expresso-mockup.jpg](/uploads/expresso-mockup.jpg)
