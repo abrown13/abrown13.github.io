@@ -1,5 +1,5 @@
 ---
-title: Dracula
+title: DRACULA
 date: 2019-03-21 20:26:00 Z
 position: 0
 featured_image: "/uploads/dracula-cover.jpg"
