@@ -12,7 +12,7 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: "/project/:slug"
+    permalink: "/project/:name"
   uploads:
     title: Uploads
     output: true
